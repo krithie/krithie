@@ -11,8 +11,8 @@ Risk Analytics Consultant at PwC, working across enterprise fraud risk managemen
 
 Previously built data pipelines and marketing analytics models at MathCo, and worked on fintech EDA at HighRadius.
 
-### 🔧 Skills: Python · SQL (Oracle, BigQuery, SQL Server) · Power BI · Flask · Excel
-### 🎯 Domains: Fraud Risk Analytics · AML Transaction Monitoring · Forensic Data Analysis · PMO Governance · KPI Design & Executive Reporting
+🔧 Skills: Python · SQL (Oracle, BigQuery, SQL Server) · Power BI · Flask · Excel
+🎯 Domains: Fraud Risk Analytics · AML Transaction Monitoring · Forensic Data Analysis · PMO Governance · KPI Design & Executive Reporting
 
 📫 Reach me:
 
